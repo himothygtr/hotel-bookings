@@ -1,7 +1,10 @@
 # Hotel-Bookings
-<img width="519" height="385" alt="Image" src="https://github.com/user-attachments/assets/8b8d25e1-e34c-4069-9643-f99b0b7adcad" />
+
+<img width="678" height="452" alt="hotel2" src="https://github.com/user-attachments/assets/df0cbe50-b543-4775-bae7-72d9c0e1e152" />
+
 
 A data-driven analysis of hotel bookings to uncover trends in cancellations, customer behavior, and seasonal demand for improved revenue management.
+
 # 📊 Hotel Booking Data Analysis
 
 ## 📌 Project Overview
